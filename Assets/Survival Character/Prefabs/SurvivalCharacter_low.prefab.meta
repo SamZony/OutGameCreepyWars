@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3e79cbf49ad8104bbf0b11dfe537ad5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127468
+  packageName: Post apocalyptic survival character
+  packageVersion: 1.0.1
+  assetPath: Assets/Survival Character/Prefabs/SurvivalCharacter_low.prefab
+  uploadId: 309722

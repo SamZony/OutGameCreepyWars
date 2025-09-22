@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 29e44e45327bde042a974379e6b70db3
+timeCreated: 1525142625
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90214
+  packageName: MS Vehicle System (free version)
+  packageVersion: 2.1
+  assetPath: Assets/MSVehicleSystem(FreeVersion)/Prefabs/Vehicles/Vehicle4(4x4).prefab
+  uploadId: 244055

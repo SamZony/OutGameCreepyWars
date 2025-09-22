@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 52a8dcc146fa29d429ff1bd0f2d915ce
+timeCreated: 1524193319
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90214
+  packageName: MS Vehicle System (free version)
+  packageVersion: 2.1
+  assetPath: Assets/MSVehicleSystem(FreeVersion)/3DModels/NewScenario/Materials/tree_crown.mat
+  uploadId: 244055

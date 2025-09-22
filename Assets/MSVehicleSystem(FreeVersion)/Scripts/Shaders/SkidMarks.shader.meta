@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0e9783dda7aa8884491cd17040cdaf4b
+timeCreated: 1486086485
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90214
+  packageName: MS Vehicle System (free version)
+  packageVersion: 2.1
+  assetPath: Assets/MSVehicleSystem(FreeVersion)/Scripts/Shaders/SkidMarks.shader
+  uploadId: 244055

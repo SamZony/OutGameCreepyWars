@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cd58cab517466b42b14b4169fee7b4e
+timeCreated: 1483933345
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90214
+  packageName: MS Vehicle System (free version)
+  packageVersion: 2.1
+  assetPath: Assets/MSVehicleSystem(FreeVersion)/3DModels/Vehicle3/Materials/v320glass.mat
+  uploadId: 244055

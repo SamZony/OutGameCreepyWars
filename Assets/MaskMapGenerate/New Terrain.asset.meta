@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5a31ffd9bf293142a3a2cc72fa1eaf6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261366
+  packageName: MaskMap Generator
+  packageVersion: 1.0.0
+  assetPath: Assets/MaskMapGenerate/New Terrain.asset
+  uploadId: 616181

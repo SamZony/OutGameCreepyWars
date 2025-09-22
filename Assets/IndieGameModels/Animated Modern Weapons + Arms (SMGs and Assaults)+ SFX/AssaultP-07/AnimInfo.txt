@@ -1,0 +1,19 @@
+AssaultP-07 Animation List:
+-------------------------
+
+Select                 = 0 - 14
+Idle                   = 15 - 64
+Move                   = 65 - 94
+Fire                   = 95 - 101
+Reload                 = 102 - 144
+Empty Reload           = 145 - 187
+Zoom To                = 188 - 197
+Zoom Idle              = 198 - 247
+Zoom Move              = 248 - 277
+Zoom Fire              = 278 - 281
+Zoom From              = 282 - 291
+Put Away               = 292 - 306
+Run                    = 307 - 336
+Melee Attack           = 337 - 359
+
+

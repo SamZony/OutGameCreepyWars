@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 596b3a7b20c42e74d8d6754bf2e8be99
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261366
+  packageName: MaskMap Generator
+  packageVersion: 1.0.0
+  assetPath: Assets/MaskMapGenerate/MetalBarrel01.prefab
+  uploadId: 616181

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eeb55970ec3acb34fa4667a80ed91385
+timeCreated: 1524193319
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90214
+  packageName: MS Vehicle System (free version)
+  packageVersion: 2.1
+  assetPath: Assets/MSVehicleSystem(FreeVersion)/3DModels/NewScenario/Materials/tree_trunk.mat
+  uploadId: 244055

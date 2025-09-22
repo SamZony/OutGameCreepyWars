@@ -1,0 +1,23 @@
+Assault36k Animation List:
+-----------------------
+
+Select                 = 0 - 14
+Idle                   = 15 - 64
+Move                   = 65 - 94
+Start Fire             = 95 - 97
+Automatic Fire         = 98 - 115
+End Fire               = 116 - 119
+Reload                 = 120 - 159
+Empty Reload           = 160 - 209
+Zoom To                = 210 - 219
+Zoom Idle              = 220 - 269
+Zoom Move              = 270 - 299
+Zoom Start Fire        = 300 - 303
+Zoom Automatic Fire    = 304 - 316
+Zoom End Fire          = 317 - 320
+Zoom From              = 321 - 330
+Put Away               = 331 - 345
+Run                    = 346 - 375
+Melee Attack           = 376 - 398
+
+

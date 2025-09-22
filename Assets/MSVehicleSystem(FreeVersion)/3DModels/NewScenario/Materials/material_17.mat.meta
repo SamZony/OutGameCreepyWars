@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6ea4d48de0c327c43bf3ffa4c66746d1
+timeCreated: 1524193319
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90214
+  packageName: MS Vehicle System (free version)
+  packageVersion: 2.1
+  assetPath: Assets/MSVehicleSystem(FreeVersion)/3DModels/NewScenario/Materials/material_17.mat
+  uploadId: 244055

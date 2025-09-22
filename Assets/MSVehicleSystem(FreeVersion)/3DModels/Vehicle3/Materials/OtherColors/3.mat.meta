@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 08d6fa22ea49da642a838e1477ae89f1
+timeCreated: 1525134395
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90214
+  packageName: MS Vehicle System (free version)
+  packageVersion: 2.1
+  assetPath: Assets/MSVehicleSystem(FreeVersion)/3DModels/Vehicle3/Materials/OtherColors/3.mat
+  uploadId: 244055

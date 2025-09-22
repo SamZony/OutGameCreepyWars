@@ -1,0 +1,21 @@
+Assault47 Animation List:
+--------------------
+
+Select                 = 0 - 14
+Idle                   = 15 - 64
+Move                   = 65 - 94
+Start Fire             = 95 - 97
+Automatic Fire         = 98 - 110
+End Fire               = 111 - 113
+Reload                 = 116 - 155
+Empty Reload           = 156 - 213
+Zoom To                = 214 - 223
+Zoom Idle              = 224 - 273
+Zoom Move              = 274 - 303
+Zoom Start Fire        = 304 - 307
+Zoom Automatic Fire    = 308 - 321
+Zoom End Fire          = 322 - 324
+Zoom From              = 325 - 334
+Put Away               = 335 - 349
+Run                    = 350 - 379
+Melee Attack           = 380 - 402

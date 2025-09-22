@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/MyUI/USS%20Files/messagebox.uss?fileID=7433441132597879392&amp;guid=4b4cdfd19122bbf4294a5c741c310752&amp;type=3#messagebox" />
+    <ui:Label text="Label" focusable="true" style="color: rgb(255, 255, 255); background-image: url(&quot;project://database/Assets/Scenes/Main%20Menu/black-bg.jpg?fileID=2800000&amp;guid=40af361ff69f00446b9e367313e5510c&amp;type=3#black-bg&quot;); -unity-background-image-tint-color: rgba(255, 255, 255, 0.58); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; padding-left: 10px; padding-right: 5px; padding-top: 6px; padding-bottom: 6px;" />
+</ui:UXML>

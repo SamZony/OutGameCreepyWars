@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7cb6c884a64230f4b82f02b9137acc6a
+timeCreated: 1489289575
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90214
+  packageName: MS Vehicle System (free version)
+  packageVersion: 2.1
+  assetPath: Assets/MSVehicleSystem(FreeVersion)/Prefabs/MSFPSController.prefab
+  uploadId: 244055

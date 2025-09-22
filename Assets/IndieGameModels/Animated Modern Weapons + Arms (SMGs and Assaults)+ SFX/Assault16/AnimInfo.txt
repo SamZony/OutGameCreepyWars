@@ -1,0 +1,23 @@
+Assault16 Animation List:
+---------------------
+
+Select                 = 0 - 14
+Idle                   = 15 - 64
+Move                   = 65 - 94
+Start Fire             = 95 - 97
+Automatic Fire         = 98 - 110
+End Fire               = 111 - 113
+Reload                 = 116 - 155
+Empty Reload           = 156 - 205
+Zoom To                = 206 - 215
+Zoom Idle              = 216 - 265
+Zoom Move              = 266 - 295
+Zoom Start Fire        = 296 - 299
+Zoom Automatic Fire    = 300 - 311
+Zoom End Fire          = 312 - 315
+Zoom From              = 316 - 326
+Put Away               = 327 - 341
+Run                    = 342 - 371
+Melee Attack           = 372 - 394
+
+

@@ -38,7 +38,7 @@
 *.shadervariants unity-yaml-file
 *.spriteatlas unity-yaml-file
 *.terrainlayer unity-yaml-file
-*.unity unity-yaml-file
+*.unity filter=lfs diff=lfs merge=lfs -text
 # Unity binary files
 *.bundle lfs-file
 *.cubemap lfs-file

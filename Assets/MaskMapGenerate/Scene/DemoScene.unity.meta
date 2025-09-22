@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 04f78fba18a17584eab6e853139ec254
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261366
+  packageName: MaskMap Generator
+  packageVersion: 1.0.0
+  assetPath: Assets/MaskMapGenerate/Scene/DemoScene.unity
+  uploadId: 616181

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 026980d00ce5c724fa53d1c512e04e91
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261366
+  packageName: MaskMap Generator
+  packageVersion: 1.0.0
+  assetPath: Assets/MaskMapGenerate/README.txt
+  uploadId: 616181

@@ -1,0 +1,23 @@
+SMG90 Animation List:
+----------------------
+
+Select                 = 0 - 14
+Idle                   = 15 - 64
+Move                   = 65 - 94
+Start Fire             = 95 - 97
+Automatic Fire         = 98 - 115
+End Fire               = 116 - 119
+Reload                 = 120 - 169
+Empty Reload           = 170 - 229
+Put Away               = 230 - 244
+Run                    = 245 - 274
+Zoom To                = 275 - 284
+Zoom Idle              = 285 - 334
+Zoom Move              = 335 - 364
+Zoom Start Fire        = 365 - 368
+Zoom Automatic Fire    = 369 - 381
+Zoom End Fire          = 382 - 383
+Zoom From              = 386 - 395
+Melee Attack           = 396 - 418
+
+

@@ -1,0 +1,23 @@
+Assaultaug Animation List:
+-------------------------
+
+Select                 = 0 - 14
+Idle                   = 15 - 64
+Move                   = 65 - 94
+Start Fire             = 95 - 97
+Automatic Fire         = 98 - 115
+End Fire               = 116 - 119
+Reload                 = 120 - 182
+Empty Reload           = 183 - 245
+Put Away               = 246 - 260
+Run                    = 261 - 290
+Zoom To                = 291 - 300
+Zoom Idle              = 301 - 350
+Zoom Move              = 351 - 380
+Zoom Start Fire        = 381 - 383
+Zoom Automatic Fire    = 384 - 396
+Zoom End Fire          = 397 - 399
+Zoom From              = 400 - 411
+Melee Attack           = 412 - 434
+
+

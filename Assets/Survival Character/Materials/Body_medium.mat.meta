@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46a8606d7fbc41e43b47ad1c270ec27a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127468
+  packageName: Post apocalyptic survival character
+  packageVersion: 1.0.1
+  assetPath: Assets/Survival Character/Materials/Body_medium.mat
+  uploadId: 309722
